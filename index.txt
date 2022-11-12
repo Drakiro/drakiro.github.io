@@ -54,7 +54,7 @@ aria-label = close search
 
 #---------- HERO ----------#
 
-World Gaming
+DRAKIRO
 
 Create Manage Matches
 
