@@ -585,6 +585,10 @@ body {
 .btcqr {
   background-image: var(--raisin-black-2);
   --section-padding: 60px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 .brand .has-scrollbar {
