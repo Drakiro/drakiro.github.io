@@ -184,9 +184,6 @@ body {
 
 .h2 {
   font-size: var(--fs-3);
-}
-
-h2::after {
   margin-top: 20px;
 }
 
