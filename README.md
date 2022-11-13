@@ -2,7 +2,6 @@
   
   ![GitHub repo size](https://img.shields.io/github/repo-size/drakiro/drakiro.github.io)
   ![GitHub stars](https://img.shields.io/github/stars/drakiro/drakiro.github.io?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/drakiro.github.io/?style=social)
   [![Twitter Follow](https://img.shields.io/twitter/follow/drakir0?style=social)](https://twitter.com/intent/follow?screen_name=drakir0)
 
   <br />
@@ -18,6 +17,6 @@ Simple website to host my socials and other links.
 
 <br />
 
-### Screeshots
+### Preview
 
 ![Webpreview](./assets/images/webpreview.PNG "Website Preview")
