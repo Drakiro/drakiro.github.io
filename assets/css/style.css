@@ -582,6 +582,11 @@ body {
   --section-padding: 60px;
 }
 
+.btcqr {
+  background-image: var(--raisin-black-2);
+  --section-padding: 60px;
+}
+
 .brand .has-scrollbar {
   padding-block-end: 0;
 }
