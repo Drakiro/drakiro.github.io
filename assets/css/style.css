@@ -573,7 +573,7 @@ body {
 
 .brand {
   --section-padding: 60px;
-  background-image: var(--raisin-black-2);
+  background-image: var(--eerie-black-1);
 }
 
 .brand .has-scrollbar {
