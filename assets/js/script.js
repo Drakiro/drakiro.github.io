@@ -38,5 +38,5 @@ const backTopBtn = document.querySelector("[data-back-top-btn]");
 
 window.addEventListener("scroll", function () {
   header.classList.add("active");
-  backTopBtn.classList.add("active");
+  backTopBtn.classList.add("active"); 
 });
