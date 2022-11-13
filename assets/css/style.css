@@ -577,6 +577,11 @@ body {
   background-image: var(--raisin-black-2);
 }
 
+.donate {
+  background-image: var(--raisin-black2);
+  --section-padding: 60px;
+}
+
 .brand .has-scrollbar {
   padding-block-end: 0;
 }
