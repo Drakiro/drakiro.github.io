@@ -573,7 +573,7 @@ body {
 
 .brand {
   --section-padding: 60px;
-  background-image: var(--eerie-black-1);
+  background-image: var(--raisin-black-2);
 }
 
 .brand .has-scrollbar {
@@ -599,7 +599,7 @@ body {
 
 .section-wrapper {
   position: relative;
-  background-color: var(--white);
+  background-color: var(--raisin-black-2);
   z-index: 1;
 }
 
@@ -609,7 +609,7 @@ body {
   top: 0;
   left: 0;
   width: 100%;
-  height: 57%;
+  height: 100%;
   background-image: url("../images/section-wrapper-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
