@@ -1,6 +1,4 @@
-'use strict';
-
-
+"use strict";
 
 const navbar = document.querySelector("[data-navbar]");
 const navbarLinks = document.querySelectorAll("[data-nav-link]");
@@ -18,8 +16,6 @@ for (let i = 0; i < navbarLinks.length; i++) {
   });
 }
 
-
-
 /**
  * search toggle
  */
@@ -33,8 +29,6 @@ for (let i = 0; i < searchTogglers.length; i++) {
   });
 }
 
-
-
 /**
  * header
  */
@@ -43,7 +37,7 @@ const header = document.querySelector("[data-header]");
 const backTopBtn = document.querySelector("[data-back-top-btn]");
 
 window.addEventListener("scroll", function () {
-  if (window.scrollY >= 200) {
+  if (window.scrollY >= 100) {
     header.classList.add("active");
     backTopBtn.classList.add("active");
   } else {
